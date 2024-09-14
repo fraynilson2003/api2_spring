@@ -20,4 +20,5 @@ public class RegisterRequest {
 
     @Min(value = 18)
     int age;
+
 }
